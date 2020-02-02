@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/exemple-gh-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/exemple-gh-pages/static/js/main.f958b500.chunk.js",
-    "main.js.map": "/exemple-gh-pages/static/js/main.f958b500.chunk.js.map",
+    "main.css": "/exemple-gh-pages/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/exemple-gh-pages/static/js/main.a8f4b508.chunk.js",
+    "main.js.map": "/exemple-gh-pages/static/js/main.a8f4b508.chunk.js.map",
     "runtime-main.js": "/exemple-gh-pages/static/js/runtime-main.8aee10da.js",
     "runtime-main.js.map": "/exemple-gh-pages/static/js/runtime-main.8aee10da.js.map",
-    "static/js/2.fd01a687.chunk.js": "/exemple-gh-pages/static/js/2.fd01a687.chunk.js",
-    "static/js/2.fd01a687.chunk.js.map": "/exemple-gh-pages/static/js/2.fd01a687.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/exemple-gh-pages/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d993f7db.chunk.js": "/exemple-gh-pages/static/js/2.d993f7db.chunk.js",
+    "static/js/2.d993f7db.chunk.js.map": "/exemple-gh-pages/static/js/2.d993f7db.chunk.js.map",
     "index.html": "/exemple-gh-pages/index.html",
-    "precache-manifest.91189b2978a3f1e12476049a318227cf.js": "/exemple-gh-pages/precache-manifest.91189b2978a3f1e12476049a318227cf.js",
+    "precache-manifest.97b8663d1cbf826c79f8ec7012a2fbc0.js": "/exemple-gh-pages/precache-manifest.97b8663d1cbf826c79f8ec7012a2fbc0.js",
     "service-worker.js": "/exemple-gh-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/exemple-gh-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.fd01a687.chunk.js.LICENSE.txt": "/exemple-gh-pages/static/js/2.fd01a687.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/exemple-gh-pages/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/exemple-gh-pages/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/exemple-gh-pages/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d993f7db.chunk.js.LICENSE.txt": "/exemple-gh-pages/static/js/2.d993f7db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8aee10da.js",
-    "static/js/2.fd01a687.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f958b500.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d993f7db.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a8f4b508.chunk.js"
   ]
 }
